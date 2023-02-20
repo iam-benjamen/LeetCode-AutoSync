@@ -1,0 +1,7 @@
+Autofill - Populate a spreadsheet and a github repo when a leetcode problem is solved
+
+1. Authentication - Grant access to Github and Google accounts
+2. Option to update every 12 hours, daily or manually update now
+3. Spreadsheet is updated with date, problem description, related topic and some performance metrics
+4. Github repo is (possibly) Populate with name of problem and solution 
+5. Option to Populate previously solved problems or from a range of dates

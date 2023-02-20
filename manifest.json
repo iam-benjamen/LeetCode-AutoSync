@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Leetcode Auto-fill",
+  "description": "A chrome extension that automatically populates a spreadsheet and github repo with Leetcode submitted problems data",
+  "version": "1.0.0"
+}
